@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://a-a-791b3e50.zappy5.app
+https://example.com
 גלו עולם מתוק של עוגיות בעבודת יד, אווירה רומנטית בגווני פסטל עדינים. מחפשים קונדיטוריה מובחרת? בקרו אותנו למתוק מפנק שמעורר חיוך.
 
 ### אודות
-https://a-a-791b3e50.zappy5.app/about
+https://example.com/about
 הכירו את התשוקה שמאחורי כל ביס – אומנות אפייה עדינה עם אהבה לפרטים קטנים. סיפור המותג שמגדיר מחדש קונדיטוריה ללא גלוטן באהבה נשית.
 
 ### אירועים
-https://a-a-791b3e50.zappy5.app/occasions
+https://example.com/occasions
 הפכו כל חגיגה לחוויה קסומה עם עוגיות מעוצבות, מותאמות אישית לאירועים שלכם. מחפשים קונדיטוריה לאירועים? התענוג מתחיל בעוגייה המושלמת.
 
 ### צור קשר
-https://a-a-791b3e50.zappy5.app/contact
+https://example.com/contact
 מוכנים לטעום קסם? צרו קשר להזמנת עוגיות חלומיות, ייעוץ לאירועים או כל שאלה. קונדיטוריה ללא גלוטן במרחק הודעה – בואו נאפה יחד שמחה.
 
 ### Products
-https://a-a-791b3e50.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - A&A קוקיז
 
 ### Cart
-https://a-a-791b3e50.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://a-a-791b3e50.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://a-a-791b3e50.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://a-a-791b3e50.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://a-a-791b3e50.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://a-a-791b3e50.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - A&A קוקיז
 
 ### Category
-https://a-a-791b3e50.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - A&A קוקיז
 
 ### תודה שפניתם אלינו
-https://a-a-791b3e50.zappy5.app/thank-you
+https://example.com/thank-you
 A&A קוקיז - תודה שפניתם אלינו
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://a-a-791b3e50.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://a-a-791b3e50.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://a-a-791b3e50.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Bakery
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://a-a-791b3e50.zappy5.app/sitemap.xml
-- Robots: https://a-a-791b3e50.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://a-a-791b3e50.zappy5.app/llms-full.txt
-- Products (JSON): https://a-a-791b3e50.zappy5.app/products.json
-- Products (Google Merchant RSS): https://a-a-791b3e50.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
