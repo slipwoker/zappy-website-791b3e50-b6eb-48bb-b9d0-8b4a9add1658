@@ -5317,3 +5317,19 @@ Description: A&A קוקיז - תודה שפניתם אלינו
 
 ---
 
+## Product Catalog
+
+### עוגיית סמורס
+URL: https://example.com/product/avgyyt-smvrs-s4a5j6
+Price: 12.00 ILS (sale, was 16.00 ILS)
+Availability: In stock
+
+---
+
+### הקלאסית
+URL: https://example.com/product/hklasyt-f70m2n
+Price: 8.00 ILS (sale, was 10.00 ILS)
+Availability: In stock
+
+---
+

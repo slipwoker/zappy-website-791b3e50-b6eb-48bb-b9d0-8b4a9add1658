@@ -4,6 +4,32 @@
     <title>A&amp;A קוקיז</title>
     <link>https://example.com</link>
     <description>Product feed for A&amp;A קוקיז</description>
-    <lastBuildDate>Tue, 23 Jun 2026 16:49:12 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 23 Jun 2026 17:05:35 GMT</lastBuildDate>
+    <item>
+      <g:id>f27b3863-d96d-43e8-8dff-c4a767cbfa84</g:id>
+      <g:title>עוגיית סמורס</g:title>
+      <g:description>עוגיית בצק עוגייה קלאסי, עם מרשמלו נימוח ושוקולד.</g:description>
+      <g:link>https://example.com/product/avgyyt-smvrs-s4a5j6</g:link>
+      <g:image_link>https://example.com/assets/product-1782234175156-4cukmy.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>16.00 ILS</g:price>
+      <g:sale_price>12.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>A&amp;A קוקיז</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
+    <item>
+      <g:id>ea6427f9-8452-4d77-887b-0e5bd9f17152</g:id>
+      <g:title>הקלאסית</g:title>
+      <g:description>עוגיות שוקולד צ׳יפס קלאסית, נימוחה, רכה וקריספית.</g:description>
+      <g:link>https://example.com/product/hklasyt-f70m2n</g:link>
+      <g:image_link>https://example.com/assets/product-1782233772345-rngbqk.webp</g:image_link>
+      <g:availability>in_stock</g:availability>
+      <g:price>10.00 ILS</g:price>
+      <g:sale_price>8.00 ILS</g:sale_price>
+      <g:condition>new</g:condition>
+      <g:brand>A&amp;A קוקיז</g:brand>
+      <g:identifier_exists>no</g:identifier_exists>
+    </item>
   </channel>
 </rss>

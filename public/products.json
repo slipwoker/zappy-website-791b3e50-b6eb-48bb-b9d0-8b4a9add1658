@@ -1,8 +1,53 @@
 {
   "@context": "https://schema.org",
-  "generated_at": "2026-06-23T16:49:12.762Z",
+  "generated_at": "2026-06-23T17:05:35.500Z",
   "base_url": "https://example.com",
   "currency": "ILS",
-  "count": 0,
-  "products": []
+  "count": 2,
+  "products": [
+    {
+      "id": "f27b3863-d96d-43e8-8dff-c4a767cbfa84",
+      "slug": "avgyyt-smvrs-s4a5j6",
+      "name": "עוגיית סמורס",
+      "name_translations": {},
+      "description": "",
+      "short_description": "עוגיית בצק עוגייה קלאסי, עם מרשמלו נימוח ושוקולד.",
+      "sku": null,
+      "brand": null,
+      "price": 12,
+      "base_price": 16,
+      "sale_price": 12,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782234175156-4cukmy.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/avgyyt-smvrs-s4a5j6",
+      "categories": [],
+      "updated_at": "2026-06-23T17:04:15.699Z"
+    },
+    {
+      "id": "ea6427f9-8452-4d77-887b-0e5bd9f17152",
+      "slug": "hklasyt-f70m2n",
+      "name": "הקלאסית",
+      "name_translations": {},
+      "description": "",
+      "short_description": "עוגיות שוקולד צ׳יפס קלאסית, נימוחה, רכה וקריספית.",
+      "sku": null,
+      "brand": null,
+      "price": 8,
+      "base_price": 10,
+      "sale_price": 8,
+      "currency": "ILS",
+      "images": [
+        "https://example.com/assets/product-1782233772345-rngbqk.webp"
+      ],
+      "in_stock": true,
+      "stock_status": "in_stock",
+      "url": "https://example.com/product/hklasyt-f70m2n",
+      "categories": [],
+      "updated_at": "2026-06-23T16:58:14.357Z"
+    }
+  ]
 }
